@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Orlov Alexander Andreevichhh
-=======
-Orlov Alexander Andreich
->>>>>>> newdev
